@@ -1,0 +1,9 @@
+## Cross the River
+
+When I was in grade school, one of my most favorite activities was when my class would go to the computer lab to play Oregon Trail. There was something so special about this game and I had no other way to play it. So, on those couple days out of each school year when I would finally get my chance, I was so excited.
+
+One part of the game that has always stood out to me is when you would inevitably come to a river crossing. You would be presented with a beautiful pixel art rendering of the river followed by a choice: how would you cross? I would make attempt after attempt. Sometimes choosing to ford the river, sometimes caulking the wagon to float across, sometimes taking a ferry, sometimes waiting for improvement in conditions, sometimes getting assistance on where best to make the attempt and improve the odds for success. If the conditions were good and you picked wisely, you would make it safely across the river. The game would continue, and you would have a chance at victory. Pick poorly, and disaster strikes: you are swept away.
+
+In my career as a technologist, I often think back on these days from my youth trying to cross rivers. Troubleshooting issues. Considering all the variables. There must be a solution if I think of enough options. Keep trying all of the possibilities. Keep pushing. It’s something I expect from my team as well — tenacity to think through a problem and keep trying until all options have been exhausted.  Try what others haven't tried.  And more often than not, victory awaits.
+
+You can read more about Oregon Trail and the development of the river crossings feature on [R. Philip Bouchard’s site, Died of Dysentery](https://www.died-of-dysentery.com/stories/crossing-rivers.html). Also, check out his [full book on Amazon](https://www.amazon.com/dp/B01B8JMKMC/) for more Oregon Trail stories.
