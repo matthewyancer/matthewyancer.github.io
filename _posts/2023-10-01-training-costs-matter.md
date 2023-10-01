@@ -17,7 +17,7 @@ Across the Internet, it's very typical to hear cries to switch from one programm
 *"Why is anyone still using language X? Language Y is the new hotness."*  
 *"That language is so slow that by the time your program finishes executing, you'll have grown a beard and your grandchildren will be graduating from college!"*
 
-Let's take a look at the top [5 programming languages in the TIOBE index](https://web.archive.org/web/20230927111754/https://www.tiobe.com/tiobe-index/) as of September 2023:
+Let's take a look at the [top 5 programming languages in the TIOBE index](https://web.archive.org/web/20230927111754/https://www.tiobe.com/tiobe-index/) as of September 2023:
 
 1. Python
 2. C
