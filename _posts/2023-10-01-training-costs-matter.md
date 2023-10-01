@@ -2,11 +2,9 @@
 
 Towards the beginning of the 2004 book [*Star Trek: A Time to be Born* by John Vornholt](https://www.amazon.com/Star-Trek-Next-Generation-Time/dp/0743467655), we find the TNG crew exploring an interstellar graveyard filled with the remains of various ships within the Rashanar sector. Picard, Data, and Geordi board one of these derelict ships, the *Asgard*, a Galaxy-class starship very similar to the *Enterprise-D*:
 
-> "There's still static electricity on these controls," observed Geordi. "No power, of course. Why didn't they consider towing this ship out and retrofitting it?"
-
-> "It could be retrofitted, but that would be inefficient for a ship of older design with no crew," said Data bluntly. "As long as you are assembling and training a new crew, it is more efficient to assign them to a new vessel."
-
-> Picard wanted to protest and say there was value in an old workhorse like the *Asgard*, but Data was right. Without a crew to lovingly put her back together, as his crew had done many times with the *Enterprise*, it wasn't going to happen. Like it or not, the *Asgard* was an elaborate mausoleum at best, scrap metal at worst.
+> &nbsp;&nbsp;&nbsp;&nbsp;"There's still static electricity on these controls," observed Geordi. "No power, of course. Why didn't they consider towing this ship out and retrofitting it?"  
+> &nbsp;&nbsp;&nbsp;&nbsp;"It could be retrofitted, but that would be inefficient for a ship of older design with no crew," said Data bluntly. "As long as you are assembling and training a new crew, it is more efficient to assign them to a new vessel."  
+> &nbsp;&nbsp;&nbsp;&nbsp;Picard wanted to protest and say there was value in an old workhorse like the *Asgard*, but Data was right. Without a crew to lovingly put her back together, as his crew had done many times with the *Enterprise*, it wasn't going to happen. Like it or not, the *Asgard* was an elaborate mausoleum at best, scrap metal at worst.
 
 My young mind exploded, "Wait, you mean to tell me that the costs and practicality of re-training a crew would not be worth it to justify salvaging a ~[$1 trillion ship](https://www.buildtheenterprise.org/cost-mass/)?! How can this be?"
 
