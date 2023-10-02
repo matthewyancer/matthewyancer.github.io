@@ -40,7 +40,7 @@ And the meeting after that:
 Project Manager: *"Ok, are we making headway?"*  
 Developer: *"Uh yeah, we're at 92%."*  
 Project Manager: *"92%?! I don't understand. We were making such great progress before, and now we're only going up 1% each meeting!"*  
-Developer: *"Well, I had to help *other developer* and I didn't get to put in as much time as I had hoped. But I might be able to make up some headway tonight..."*  
+Developer: *"Well, I had to help other developer and I didn't get to put in as much time as I had hoped. But I might be able to make up some headway tonight..."*  
 Project Manager: *"Other developer, is this true?"*  
 Other Developer: *"Well, I did have a question, but it didn't take very long."*  
 Project Manager: *"Developer, he's saying it didn't take very long. Why did this interrupt you?"*  
