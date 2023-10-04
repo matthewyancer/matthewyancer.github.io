@@ -3,7 +3,7 @@
 This comic always gives me a chuckle:
 
 ![WTFs/minute](/assets/images/wtfm.jpg)  
-[Image by Thom Holwerda on OSNews](https://www.osnews.com/story/19266/wtfsm/?ref=matthewyancer.com)
+([Image by Thom Holwerda on OSNews](https://www.osnews.com/story/19266/wtfsm/?ref=matthewyancer.com))
 
 Here we have two examples of code under a "closed door" code review. On the left is the "good code", and on the right is the "bad code". The main difference is that the "bad code" is getting significantly more reactions from the code reviewer. A huge stream of profanity can be heard from outside the door. The code reviewer doesn't know what to make of what they are looking at. Anyone who has performed code reviews or read through any decent amount of code has had this experience.
 
