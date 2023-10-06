@@ -26,6 +26,6 @@ I have found that the model works both to help identify where a given resource f
 
 **Experts** have developed *full intuition*—they know what is happening and exactly how to respond. Experts make tasks look simple and easy, almost magical. Given that what they do is intuition-based, they may not remember the reasons for what they do. So some experts may struggle to teach those who are novices and advanced beginners who need concrete information.
 
-More to come in a later post!
+More to come in [a later post](https://www.matthewyancer.com/2023/10/06/from-novice-to-expert-part-2.html)!
 
 For further reading, [Nat Eliason has thorough coverage of the Drefus Model on his blog](https://www.nateliason.com/blog/become-expert-dreyfus).
