@@ -2,7 +2,7 @@
 
 [The Mythical Man-Month: Essays on Software Engineering by Fred Brooks](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) is a fantastic book on software engineering and project management. Despite its age, many of the principles presented here still hold true. This book should be in your collection. Make sure you get the Anniversary Edition for four additional chapters.
 
-If you are a fan of the laws and principles of software development, then this book will be a treasure trove for you. There are several essential essays in this collection:
+If you are a fan of the [laws and principles of software development](https://www.matthewyancer.com/2023/09/30/the-first-law-of-computer-science.html), then this book will be a treasure trove for you. There are several essential essays in this collection:
 
 - **The Mythical Man-Month**, covering Brook's Law: "Adding manpower to a late software project makes it later." (See [here](https://effectiviology.com/brooks-law/) and [here](https://codescene.com/blog/visualize-brooks-law/) for additional info.)
 
