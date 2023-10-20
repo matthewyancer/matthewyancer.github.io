@@ -5,7 +5,7 @@ In 1970, Dr. Winston W. Royce wrote a paper entitled *Managing the Development o
 ![Diagram: Waterfall Model](/assets/images/waterfall.png)  
 (Image from [here](https://web.archive.org/web/20170219154153/https://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf), figure 2 on page 2)
 
-You may be amazed, however, to learn that Royce gave this as an example **of what not to do**! He describes the approach as "risky and invites failure". The rest of the paper describes a process for transforming this "simpler" method into something that could produce desired results in a large software development project. Royce reinforces again at the end of the paper that (with added emphasis):
+You may be amazed, however, to learn that Royce gave this as an example **of what not to do**! He describes the approach as "risky and invites failure". The rest of the paper describes a five-step process for transforming this "simpler" method into something that could produce desired results in a large software development project. Royce reinforces again at the end of the paper that (with added emphasis):
 
 > The simpler method **has never worked on large software development efforts** and the costs to recover far exceeded those required to finance the five-step process listed.
 
