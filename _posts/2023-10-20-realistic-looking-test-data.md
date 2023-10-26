@@ -18,7 +18,7 @@ The types of dice used for role-playing games are special. Yes, you can use trad
 | d20 | A twenty-sided die which gives results from 1 to 20. | [Roll!](https://rolladie.net/roll-a-d20-die) |
 | d100 | A 100-sided die (or two d10s can also be used) which gives results from 1 to 100. | [Roll!](https://rolladie.net/roll-a-d100-die) |
 
-*(Table #1: Types of Dice)*
+*(Table #1: Types of Dice)*<br />
 
 Equipped with this information, let's look at some real-world scenarios.
 
@@ -49,7 +49,7 @@ Let's say you need to create a list of real-looking names. Using this handy [lis
 | 91. Allison | 92. Abigail | 93. Sara | 94. Shelby | 95. Heather |
 | 96. Haley | 97. Maria | 98. Kaitlyn | 99. Laura | 100. Erin |
 
-*(Table #2: First Names)*
+*(Table #2: First Names)*<br />
 
 And then, using this [list of most common last names from ThoughtCo](https://www.thoughtco.com/most-common-us-surnames-1422656), you could create a table of 100 last names like this:
 
@@ -76,7 +76,7 @@ And then, using this [list of most common last names from ThoughtCo](https://www
 | 91. Price | 92. Alvarez | 93. Castillo | 94. Sanders | 95. Patel |
 | 96. Myers | 97. Long | 98. Ross | 99. Foster | 100. Jimenez |
 
-*(Table #3: Last Names)*
+*(Table #3: Last Names)*<br />
 
 To use these tables, you would role a d100 three times. The first number gives you a first name from table #2, the second number gives you a middle initial from table #2 (just use the first letter of the name), and the third number gives you a last name from table #3. Let's try that. (If you don't have a d100, use the Roll [link](https://rolladie.net/roll-a-d100-die) above in Table #1.)
 
@@ -102,7 +102,7 @@ Here are another five names using this approach:
 | 53 | 99 | 78 | Emily L. Cox |
 | 33 | 21 | 14 | Samuel J. Wilson |
 
-*(Table #4: Generated Names)*
+*(Table #4: Generated Names)*<br />
 
 Now, let's try something more advanced.
 
@@ -130,20 +130,20 @@ Based on the above, we'll use the following tables to create a street name:
 |---|---|---|---|
 | 1. None | 2. None | 3. Prefix | 4. Suffix |
 
-*(Table #5: Street Name: Include Direction in Street Name?)*
+*(Table #5: Street Name: Include Direction in Street Name?)*<br /><br />
 
 | Direction<br />—roll [d8](https://rolladie.net/roll-a-d8-die) | <!-- --> | <!-- --> | <!-- --> |
 |---|---|---|---|
 | 1. N | 2. NE | 3. E | 4. SE |
 | 5. S | 6. SW | 7. W | 8. NW |
 
-*(Table #6: Street Name: Direction)*
+*(Table #6: Street Name: Direction)*<br /><br />
 
 | Specific<br />Name<br />Type<br />—roll [d6](https://rolladie.net/) | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |---|---|---|---|---|---|
 | 1. Cardinal<br />Directions | 2. Landmarks | 3. Landscapes | 4. Numbers | 5. Presidents | 6. Trees |
 
-*(Table #7: Street Name: Identify Specific Name Type)*
+*(Table #7: Street Name: Identify Specific Name Type)*<br />
 
 Once you identify the type of specific name, use the below table to pick the actual specific name:
 
@@ -162,14 +162,14 @@ Once you identify the type of specific name, use the below table to pick the act
 |  |  | 11. River | 11. 11th |  | 11. Walnut |
 |  |  | 12. Sunset | 12. 12th |  | 12. Willow |
 
-*(Table #8: Street Name: Select Actual Specific Name)*
+*(Table #8: Street Name: Select Actual Specific Name)*<br /><br />
 
 | Generic<br />Name<br />—roll [d12](https://rolladie.net/roll-a-d12-die) | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |---|---|---|---|---|---|
 | 1. Ave | 2. Blvd | 3. Cir | 4. Ct | 5. Dr | 6. Ln |
 | 7. Pkwy | 8. Pl | 9. Rd | 10. St | 11. Ter | 12. Way |
 
-*(Table #9: Street Name: Generic Name)*
+*(Table #9: Street Name: Generic Name)*<br />
 
 Let's look at an example street name using these tables:
 
@@ -199,7 +199,7 @@ Roughly [1 in 8 people](https://www.naahq.org/united-states-needs-46-million-new
 | 1. No | 2. No | 3. No | 4. No |
 | 5. No | 6. No | 7. No | 8. Yes |
 
-*(Table #10: Add Apartment Number?)*
+*(Table #10: Add Apartment Number?)*<br />
 
 If we roll an "8" on a d8, then we'll use a direct dice roll for the apartment number itself. A d100 will work here. So a roll of "72" would be "Apt 72" for address line 2.
 
@@ -221,7 +221,7 @@ For the city, we'll use the following table of common [city](https://en.wikipedi
 | 41. Newport | 42. Oakland | 43. Oxford | 44. Pleasant Valley | 45. Riverside |
 | 46. Salem | 47. Springfield | 48. Union | 49. Washington | 50. Winchester |
 
-*(Table #11: City)*
+*(Table #11: City)*<br />
 
 For the [state](https://www.50states.com/abbreviations.htm), we'll use the following table (leaving out territories for this example):
 
@@ -238,7 +238,7 @@ For the [state](https://www.50states.com/abbreviations.htm), we'll use the follo
 | 41. SD | 42. TN | 43. TX | 44. UT | 45. VT |
 | 46. VA | 47. WA | 48. WV | 49. WI | 50. WY |
 
-*(Table #12: State)*
+*(Table #12: State)*<br />
 
 And for zipcode, we'll pull the [first 3 digits](https://en.wikipedia.org/wiki/List_of_ZIP_Code_prefixes) of the zipcode from the following table using the same die roll as was used for the state. Then we'll get the last 2 digits from another die roll (d100 to the rescue again) directly and pad with zero if necessary.
 
@@ -255,7 +255,7 @@ And for zipcode, we'll pull the [first 3 digits](https://en.wikipedia.org/wiki/L
 | 41. 575 | 42. 372 | 43. 787 | 44. 841 | 45. 056 |
 | 46. 232 | 47. 985 | 48. 253 | 49. 537 | 50. 820 |
 
-*(Table #13: Zipcode Prefixes)*
+*(Table #13: Zipcode Prefixes)*<br />
 
 Let's look at an example city, state, zipcode using these tables:
 
@@ -286,7 +286,7 @@ Here are five full addresses using this approach:
 | 4, 13 | 2, 0, 5, 7, 2 | 8, 51 | 30, 13, 13, 05 | 413 Washington Blvd<br />Apt 51<br />Lebanon, IL 62705 |
 | 5, 97 | 1, 0, 4, 3, 4 | 2, 0 | 44, 48, 48, 34 | 597 3rd Ct<br />Pleasant Valley, WV 25334 |
 
-*(Table #14: Generated Addresses)*
+*(Table #14: Generated Addresses)*<br />
 
 ### Automating
 
