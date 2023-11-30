@@ -18,7 +18,7 @@ Everyone's happy now, right? Well, actually, no.
 
 Using the var keyword reminded a lot of developers of VBScript's [variant](https://www.csidata.com/custserv/onlinehelp/VBSdocs/VBS6.HTM) data type, which could hold any type of data but was not [strongly typed](https://stackoverflow.com/questions/3376252/what-are-the-benefits-and-drawbacks-of-a-weakly-typed-language). Var and variant both start with "var", after all. And it sure seems like var can be anything:
 
-```csharp
+```cs
 var b = new Bird();
 var c = new Cat();
 var d = new Dog();
