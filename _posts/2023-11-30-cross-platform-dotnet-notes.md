@@ -2,7 +2,7 @@
 
 For quite some time, I've been intrigued by the idea of a more stripped-down, lightweight development environment for C# and .NET, possibly even working from a command line. Enter Visual Studio Code and the new C# Dev Kit extension. Seeing that this environment was equally available on Windows and Linux, it seemed like a good time to test out cross-platform .NET development as well. Below, you'll find some learnings I've encountered along the way.
 
-### .NET Core only
+### .NET Core Only
 
 .NET on Linux and MacOS means you'll be using .NET Core (.NET 6.0, 7.0, or 8.0). .NET Framework is Windows only, though I should note that .NET 4.8.1 has added support for [Arm64](https://devblogs.microsoft.com/dotnet/announcing-dotnet-framework-481/) on Windows 11. If you are using Ubuntu, you may find the [following](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu) [links](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-2204) to be useful for setting things up. On Ubuntu 22.04 LTS, .NET 7.0 and 6.0 are available from the Ubuntu feed, but .NET 8.0 is not. I did try adding the Microsoft feed in order to get access to .NET 8.0 and I ran into some issues with Visual Studio Code and C# Dev Kit not being able to find some portions of the .NET environment no matter what I tried. The issues vanished once I switched back to .NET 7.0 on the Ubuntu feed. Hopefully, the Microsoft feed will get this issue sorted out in a newer version. Ubuntu feed for version 23.10 also has support for .NET 8.0, so perhaps the issue doesn't exist there.
 
