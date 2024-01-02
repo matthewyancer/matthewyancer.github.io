@@ -1,4 +1,4 @@
-## Annoucing JustTooFast XML Library
+## Announcing JustTooFast XML Library
 
 Happy New Year! As part of the second release of the JustTooFast open-source project, I'm pleased to announce the immediate availability of the **JustTooFast.Xml library**. Developers can programmatically create XML documents using this library.
 
