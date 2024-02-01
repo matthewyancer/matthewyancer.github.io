@@ -2,7 +2,8 @@
 
 I have always found the Iron Man movies to be inspiring from an engineering perspective. It's not unusual for me to have one of these movies playing in the background while developing. And I've often wondered what it would be like to have my own Jarvis assistant helping me while I work. The YouTube algorithm suggested a [video](https://www.youtube.com/watch?v=BEw5EFqCCEI) to me recently on creating a version of Jarvis using Python and the OpenAI API. Taking inspiration from this, let's look at creating Jarvis in C# using OpenAI.
 
-![Jarvis Chat](/assets/images/jarvis-chat-1.png)
+![Sample Jarvis Chat Session](/assets/images/jarvis-chat-1.png)  
+(Image: A sample Jarvis chat session)
 
 ### The Chat Loop
 
