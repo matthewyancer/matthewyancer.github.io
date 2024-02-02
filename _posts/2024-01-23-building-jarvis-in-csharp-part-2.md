@@ -206,6 +206,7 @@ private static void Speak(string text)
     textToSpeech.StartInfo.Arguments = $"-v en-gb-x-rp -s 162 -a 90 \"{phoneticText.Replace("\"", string.Empty)}\"";
     textToSpeech.Exited += new EventHandler(TtsProcess_Exited);
     textToSpeech.Start();
+
     m_TtsProcesses.Add(textToSpeech.Id, textToSpeech);
 }
 
