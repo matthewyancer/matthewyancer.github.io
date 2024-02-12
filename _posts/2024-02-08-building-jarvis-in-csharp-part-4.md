@@ -131,23 +131,23 @@ I have stripped out some guarding logic here and there for edge cases and some o
 There are two events referenced in the above code:
 
 ```csharp
-    public delegate string? ReturnStringEventHandler(object sender, EventArgs e);
-    public event EventHandler? PushToTalkPressing;
-    public event ReturnStringEventHandler? PushToTalkPressed;
+public delegate string? ReturnStringEventHandler(object sender, EventArgs e);
+public event EventHandler? PushToTalkPressing;
+public event ReturnStringEventHandler? PushToTalkPressed;
 
-    protected virtual void OnPushToTalkPressing(EventArgs e)
-    {
-        PushToTalkPressing?.Invoke(this, e);
-    }
+protected virtual void OnPushToTalkPressing(EventArgs e)
+{
+    PushToTalkPressing?.Invoke(this, e);
+}
 
-    protected virtual string? OnPushToTalkPressed(EventArgs e)
-    {
-        string? result = null;
+protected virtual string? OnPushToTalkPressed(EventArgs e)
+{
+    string? result = null;
 
-        result = PushToTalkPressed?.Invoke(this, e);
+    result = PushToTalkPressed?.Invoke(this, e);
 
-        return result;
-    }
+    return result;
+}
 ```
 
 Any parts of the system that want to be signaled when the Push-to-Talk button is being held down or when it is released can attach to the PushToTalkPressing and PushToTalkPressed events. You'll notice that the PushToTalkPressed event makes use of a special delegate so that a string can be returned by the subscribing code. Since there will probably only be one event listener, I felt this was cleaner than having a mutable property embedded in the EventArgs or exposing a public property on the sender object that the consuming code would have to cast into.
